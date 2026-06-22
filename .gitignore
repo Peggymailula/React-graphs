@@ -1,0 +1,18 @@
+//add all files to git ignore
+node_modules/
+dist/
+build/
+coverage/
+logs/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.pid
+*.seed
+*.pid.lock
