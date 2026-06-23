@@ -55,8 +55,8 @@ export default function QuanticaDashboard() {
       {/* ── Top bar ── */}
       <div style={s.topBar}>
         <div>
-          {/* <span style={s.brand}>QUANTICA</span> */}
-          {/* <span style={s.pipe}> | </span> */}
+          {/* <span style={s.brand}>QUANTICA</span>
+          <span style={s.pipe}> | </span> */}
           <span style={s.subbrand}>Transport Intelligence</span>
         </div>
         <div style={s.rightBar}>

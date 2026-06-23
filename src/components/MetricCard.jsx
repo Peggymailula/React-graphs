@@ -32,7 +32,7 @@ export default function MetricCard({ label, value, trend = 'neutral', trendLabel
 
 const styles = {
   card: {
-    background: 'var(--color-background-secondary, #f4f4f6)',
+    background: 'var(--color-background-secondary, #f4f4f5)',
     borderRadius: 8,
     padding: '0.85rem 1rem',
   },
